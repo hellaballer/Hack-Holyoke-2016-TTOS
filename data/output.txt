@@ -1,3 +1,252 @@
+don't:
+	(17.03, 17.22) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+about:
+	(25.28, 25.71) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+backstop:
+	(58.47, 59.11) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+fit:
+	(70.92, 71.16) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+would:
+	(4.69, 5.06) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(30.4, 30.53) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+tape:
+	(24.88, 25.28) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+road:
+	(58.2, 58.47) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+doesn't:
+	(54.74, 55.17) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+if:
+	(6.77, 6.99) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(7.07, 7.35) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(18.15, 18.37) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(18.4, 18.58) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+they:
+	(7.35, 7.49) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+you:
+	(15.32, 15.82) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(18.58, 18.73) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(21.92, 22.1) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(30.3, 30.4) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(51.54, 51.61) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+still:
+	(48.6, 48.95) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(50.96, 51.27) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+going:
+	(74.45, 74.62) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+them:
+	(46.39, 46.59) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+sense:
+	(55.37, 55.75) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+is:
+	(74.3, 74.45) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+then:
+	(21.41, 21.82) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+somebody:
+	(19.69, 20.1) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(22.74, 23.19) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+I'm:
+	(70.17, 70.42) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(70.49, 70.92) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+awhile:
+	(59.27, 59.65) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+strongly:
+	(40.31, 40.88) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+eleven:
+	(11.35, 11.76) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+women:
+	(25.71, 26.21) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+love:
+	(1.55, 1.86) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+fact:
+	(36.36, 36.83) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+be:
+	(51.83, 51.93) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(74.62, 74.72) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+another:
+	(30.78, 31.04) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+north:
+	(73.58, 73.98) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+I:
+	(16.6, 16.81) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(16.95, 17.03) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+defense:
+	(62.79, 63.31) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+you've:
+	(37.35, 37.6) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+disapprove:
+	(40.88, 41.48) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+so:
+	(67.52, 67.86) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+buddy:
+	(3.75, 4.48) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+a:
+	(9.66, 9.82) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(20.29, 20.37) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(70.42, 70.49) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+think:
+	(51.27, 51.54) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+side:
+	(57.82, 58.2) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+set:
+	(28.18, 28.38) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+gonna:
+	(65.07, 65.32) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+one:
+	(57.64, 57.82) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+change:
+	(72.86, 73.35) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+Benton:
+	(19.3, 19.69) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+people:
+	(37.86, 38.23) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+the:
+	(0.37, 0.55) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(36.17, 36.36) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(62.38, 62.47) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(62.68, 62.79) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+to:
+	(55.75, 55.88) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(71.16, 71.27) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(72.77, 72.86) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+discuss:
+	(45.88, 46.39) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+but:
+	(29.43, 29.59) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(48.28, 48.49) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+endorsement:
+	(48.95, 49.59) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+seven:
+	(10.91, 11.35) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(73.98, 74.3) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+tolerable:
+	(5.46, 6.35) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+got:
+	(37.6, 37.86) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(66.62, 66.82) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+that:
+	(1.99, 2.39) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(30.12, 30.3) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(31.71, 31.92) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(36.83, 37.01) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(54.4, 54.74) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+hit:
+	(65.7, 65.93) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+his:
+	(57.26, 57.64) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(66.19, 66.46) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+find:
+	(5.06, 5.46) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(44.75, 45.18) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+should:
+	(51.61, 51.83) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+me:
+	(55.88, 56.07) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(72.59, 72.77) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+has:
+	(66.46, 66.62) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+up:
+	(73.35, 73.58) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+those:
+	(45.18, 45.39) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+kind:
+	(18.94, 19.21) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+it's:
+	(29.59, 29.79) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(71.85, 72.22) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+aside:
+	(28.38, 28.82) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+were:
+	(7.49, 7.72) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(18.73, 18.94) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+leads:
+	(10.32, 10.71) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+person:
+	(31.04, 31.47) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+we're:
+	(48.49, 48.6) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+guys:
+	(0.55, 1.0) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+know:
+	(17.22, 17.35) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+job:
+	(9.82, 10.32) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(17.56, 18.15) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(20.37, 20.86) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(31.92, 32.28) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+hire:
+	(30.53, 30.78) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+father:
+	(71.27, 71.82) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+for:
+	(8.29, 8.87) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(20.1, 20.29) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(31.47, 31.71) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(59.11, 59.27) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(72.48, 72.59) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+we:
+	(40.07, 40.31) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(42.34, 42.59) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(44.54, 44.75) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(50.78, 50.96) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+not:
+	(29.79, 29.95) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+transform:
+	(66.82, 67.52) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+and:
+	(21.21, 21.41) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(34.56, 35.0) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+of:
+	(19.21, 19.3) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+now:
+	(37.01, 37.35) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(59.65, 59.9) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+saying:
+	(29.17, 29.43) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(38.23, 38.73) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+hard:
+	(72.22, 72.48) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+said:
+	(23.19, 23.65) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+harder:
+	(74.72, 75.12) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+just:
+	(1.19, 1.52) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+make:
+	(55.17, 55.37) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+heard:
+	(22.1, 22.47) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+on:
+	(24.41, 24.84) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+applying:
+	(7.72, 8.29) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+or:
+	(13.62, 14.35) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+they're:
+	(28.99, 29.17) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+comments:
+	(45.39, 45.88) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+was:
+	(22.47, 22.7) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(64.92, 65.07) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+really:
+	(42.59, 42.98) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+what:
+	(17.35, 17.56) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(28.82, 28.99) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(62.09, 62.38) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+	(62.47, 62.68) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+mean:
+	(16.81, 16.95) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+disagree:
+	(42.98, 43.66) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+well:
+	(38.93, 39.38) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+knoll:
+	(2.62, 3.44) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+he:
+	(64.81, 64.92) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
+president:
+	(51.93, 52.54) /home/ubuntu/Documents/Obama_Trump_couldn’t_get_a_job_at_7-Eleven.mp4
 hands:
 	(49.53, 50.06) /home/ubuntu/Documents/sec_team.mp4
 innocent:
