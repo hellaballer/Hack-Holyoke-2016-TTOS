@@ -105,6 +105,7 @@ public class StubbedController {
 				return times;
 			});
 		} catch (IllegalStateException ex) {
+			sharder.destroy();
 			return new ResponseEntity<>(ex.getMessage(), HttpStatus.NOT_IMPLEMENTED);
 		}
 
@@ -128,7 +129,7 @@ public class StubbedController {
 						+ String.valueOf(t.getVideo().hashCode() + (int) t.getStart() + (int) t.getEnd() * 4) + ".mp4");
 				System.out.println(chop.getAbsolutePath());
 				chop.getParentFile().mkdirs();
-
+				
 				System.out.println("Source video: " + t.getVideo().getPath());
 				System.out.println(t.getVideo().exists());
 				FFMPegWrapper.cutVideo(t, chop.getAbsolutePath());
