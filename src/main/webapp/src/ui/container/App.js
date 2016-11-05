@@ -10,7 +10,7 @@ export class App extends Component {
             <div id="application">
                 <Grid>
                     <Row>
-                        <TopNav/>
+                        <TopNav data={this.props.data}/>
                         {/*<Image src='../../assets/res/demoPoster.jpg'/>*/}
                         {this.props.children}
                     </Row>
@@ -20,7 +20,11 @@ export class App extends Component {
     }
 }
 
-const maStateToProps = (state) => {return{}};
+const maStateToProps = (state) => {
+    return {
+        data: state.stub
+    };
+};
 const mapDispatchToProps = {};
 
 export default connect((state) => maStateToProps(state), mapDispatchToProps)(App);
