@@ -121,14 +121,14 @@ public class StubbedController {
 		path.toFile().mkdirs();
 		mapToVideo.runMap(t -> {
 			System.out.println(t);
-			String folderStr = String.valueOf(String.valueOf(t.getStart()).hashCode() + String.valueOf(t.getEnd()).hashCode());
+			String folderStr = String.valueOf(String.valueOf(t.getStart()).hashCode() * 2 + String.valueOf(t.getEnd()).hashCode());
 			if (path.resolve(folderStr).toFile().exists() && path.resolve(folderStr).toFile().listFiles().length > 0) {
 				System.out.println("Reading from cache");
 				return path.resolve(folderStr).toFile().listFiles()[0];
 			} else {
 				System.out.println("creating");
 				File chop = new File(path.resolve(folderStr).toFile().getAbsolutePath() + "/"
-						+ String.valueOf(t.getVideo().hashCode() + (int) t.getStart() + (int) t.getEnd() * 4) + ".mp4");
+						+ String.valueOf(t.getVideo().hashCode() * 3 + (int) t.getStart() + (int) t.getEnd() * 4) + ".mp4");
 				System.out.println(chop.getAbsolutePath());
 				chop.getParentFile().mkdirs();
 				
@@ -150,7 +150,7 @@ public class StubbedController {
 		reducer.runReduce((file1, file2) -> {
 
 			File f = new File(path.toFile().getAbsolutePath() + "/"
-					+ String.valueOf(file1.hashCode() + file2.hashCode() + System.currentTimeMillis()) + ".mp4");
+					+ String.valueOf(file1.hashCode() * 5 + file2.hashCode() + System.currentTimeMillis()) + ".mp4");
 			System.out.println("merged File: " + f);
 			return FFMPegWrapper.concatVideos(Arrays.asList(file1, file2), f.getAbsolutePath());
 		});
