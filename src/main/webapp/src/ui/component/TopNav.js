@@ -14,7 +14,7 @@ export default class TopNav extends Component {
                 <Navbar.Header>
                     <Navbar.Brand>
                         <LinkContainer to={{pathname: '/'}} active={false}>
-                            <p>Home</p>
+                            <p style={{color:'black'}}>Home</p>
                         </LinkContainer>
                         <Navbar.Toggle />
                     </Navbar.Brand>
@@ -22,10 +22,10 @@ export default class TopNav extends Component {
                 <Navbar.Collapse>
                     <Nav>
                         <IndexLinkContainer to={{pathname: '/'}}>
-                            <NavItem eventKey={1} href="#">Hello</NavItem>
+                            <NavItem eventKey={1} href="#" style={{color:'black'}}>Hello</NavItem>
                         </IndexLinkContainer>
                         {this.props.data.videoURL != '' ? <LinkContainer to={{pathname: '/video'}}>
-                            <NavItem eventKey={2} href="#">Video</NavItem>
+                            <NavItem eventKey={2} href="#" style={{color:'black'}}>Video</NavItem>
                         </LinkContainer> : ''}
                     </Nav>
                 </Navbar.Collapse>
