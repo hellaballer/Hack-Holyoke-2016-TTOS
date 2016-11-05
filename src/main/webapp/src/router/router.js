@@ -3,13 +3,13 @@ import { Route, Redirect, IndexRoute } from 'react-router';
 
 import App from 'container/App';
 import Home from 'container/Home';
-import Goodbye from 'container/Goodbye';
+import VideoPlayerComponent from 'container/VideoPlayer';
 
 
 const Routes = (
   <Route path="/" name="app" component={App}>
     <IndexRoute component={Home}/>
-    <Route path="goodbye" component={Goodbye}/>
+    <Route path="video" component={VideoPlayerComponent}/>
   </Route>
 );
 

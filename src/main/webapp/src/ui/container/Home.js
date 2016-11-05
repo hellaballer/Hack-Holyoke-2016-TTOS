@@ -16,7 +16,7 @@ class Home extends Component {
      */
     onSuccess = () => {
         console.log("Success!");
-        browserHistory.push("/goodbye");
+        browserHistory.push("/video");
     };
 
     render() {

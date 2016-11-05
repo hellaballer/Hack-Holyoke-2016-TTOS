@@ -11,6 +11,7 @@ export class App extends Component {
                 <Grid>
                     <Row>
                         <TopNav/>
+                        {/*<Image src='../../assets/res/demoPoster.jpg'/>*/}
                         {this.props.children}
                     </Row>
                 </Grid>

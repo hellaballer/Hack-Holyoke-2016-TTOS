@@ -1,13 +1,13 @@
 import React, {Component, PropTypes} from 'react';
 import {connect} from 'react-redux';
-import GoodbyeComponent from 'component/GoodbyeComponent';
+import VideoPlayerComponent from 'component/VideoPlayerComponent';
 
-class Goodbye extends Component {
+class VideoPlayer extends Component {
 
     render() {
         return (
             <div id="application">
-                <GoodbyeComponent/>
+                <VideoPlayerComponent/>
             </div>
         );
     }
@@ -19,4 +19,4 @@ let mapStateToProps = () => ({}),
 export default connect(
     mapStateToProps,
     mapDispatchToProps
-)(Goodbye);
+)(VideoPlayer);

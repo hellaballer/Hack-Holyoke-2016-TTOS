@@ -4,7 +4,7 @@
   "description": "Spring boot and react frontend",
   "scripts": {
     "bundle": "NODE_ENV=production webpack -p --optimize-dedupe",
-    "dev": "NODE_ENV=development node server.js --hot --inline"
+    "dev": "NODE_ENV=development node server.js"
   },
   "devDependencies": {
     "babel": "^6.5.2",
