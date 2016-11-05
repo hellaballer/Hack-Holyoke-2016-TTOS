@@ -4,7 +4,7 @@ import {Row, Col, Form, Button, FormGroup, ControlLabel, FormControl, HelpBlock}
 export default class FetchDataComponent extends Component {
 
     static propTypes = {
-        fetchData: React.PropTypes.func,
+        makeRequest: React.PropTypes.func,
         onSuccess: React.PropTypes.func,
         data: React.PropTypes.object
     };
@@ -34,7 +34,8 @@ export default class FetchDataComponent extends Component {
                                     <Row>
                                         <Col md={12}>
                                             <ControlLabel>
-                                                Get Obama to say anything!
+                                                Think of some phrase you'd like to hear
+                                                from Obama, and we'll make it happen
                                             </ControlLabel>
                                         </Col>
                                     </Row>
@@ -46,7 +47,7 @@ export default class FetchDataComponent extends Component {
                                     }}
                                     type="text"
                                     value={this.state.value}
-                                    placeholder="Type you text here"
+                                    placeholder="Type your Obama speech here!"
                                     onChange={this.handleChange}
                                 />
                                 <FormControl.Feedback />
@@ -56,8 +57,7 @@ export default class FetchDataComponent extends Component {
                             <Col md={12}>
                                 <Button type="submit" onClick={(e) => {
                                     e.preventDefault();
-                                    this.props.fetchData(this.state.value, this.props.onSuccess);
-                                    this.props.fetchData();
+                                    this.props.makeRequest(this.state.value, this.props.onSuccess);
                                 }}
                                         style={{margin: 'auto'}}>
                                     Make Obama Speak!

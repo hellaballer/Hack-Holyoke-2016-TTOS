@@ -38,12 +38,14 @@ public class FFMPegWrapper {
 
 		// ffmpeg -i -ss 00:00:09.240 -to 00:00:12.360 -vcodec libx264 -acodec
 		// libvo_aacenc output2.mp4
-
+	    System.out.println("Cutting to " + outputPath);
 		Process p;
 		try {
-			p = Runtime.getRuntime().exec("ffmpeg -i " + time.getVideo().getAbsolutePath() + " -ss "
+		        String execStr = "ffmpeg -i " + time.getVideo().getAbsolutePath() + " -ss "
 					+ convertSecsToTimeString(time.getStart()) + " -to " + convertSecsToTimeString(time.getEnd())
-					+ " -vcodec libx264 -acodec libvo_aacenc " + outputPath);
+			    + " -vcodec libx264 -acodec libvo_aacenc " + outputPath;
+			System.out.println(execStr);
+			p = Runtime.getRuntime().exec(execStr);
 			p.waitFor();
 		} catch (IOException e) {
 			e.printStackTrace();

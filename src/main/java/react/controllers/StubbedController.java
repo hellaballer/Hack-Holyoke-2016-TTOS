@@ -26,6 +26,8 @@ import io.hellaballer.data.pipedream.core.Sharder;
 import io.hellaballer.data.pipedream.ffmpeg.FFMPegWrapper;
 import io.hellaballer.data.pipedream.speech.Time;
 
+import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
+
 /**
  * GET request that accepts a string of words and returns the path to the video
  */
@@ -157,7 +159,17 @@ public class StubbedController {
 
 		System.out.println("FINAL: " + finalFile.getAbsolutePath());
 
-		String videoURL = finalFile.getAbsolutePath();
+		try {
+		    Path sourcePath = Paths.get(finalFile.getAbsolutePath());
+		    Path targetPath = Paths.get("/var/www/html/" + finalFile.getName());
+		    
+		    Files.copy(sourcePath, targetPath, REPLACE_EXISTING);
+		} catch (IOException ex) {
+		    //YOLO!!
+		}
+
+		String videoURL = "http://54.221.6.127/" + finalFile.getName();
+		System.out.println("VIDEO AT: " + videoURL);
 		System.out.println("OK STATUS");
 		return new ResponseEntity<>(videoURL, HttpStatus.OK);
 

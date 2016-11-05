@@ -32,7 +32,6 @@ export default class VideoPlayerComponent extends Component {
                         <Video controls
                                autoPlay
                                loop
-                               muted
                                ref={(video) => this.video = video}>
                             <source src={this.props.data.videoURL}/>
                             <Overlay />
