@@ -11,8 +11,6 @@ export const FETCH_STUB_FAIL = 'stub/FETCH_STUB_FAIL';
 export function fetchStub(paramValue, onSuccess) {
     return  {
         types: [FETCH_STUB_REQUEST, FETCH_STUB_SUCCESS, FETCH_STUB_FAIL],
-        promise: client => client.get('/api/stub', {params:{paramValue: paramValue || ''}}).then(
-            onSuccess()
-        )
-    };
+        promise: client => client.get('/api/stub', {params:{paramValue: paramValue || ''}})
+    }
 }

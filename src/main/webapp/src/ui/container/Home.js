@@ -1,8 +1,8 @@
 import React, {Component, PropTypes} from 'react';
 import {Row} from 'react-bootstrap';
 import {connect} from 'react-redux';
-import {browserHistory} from 'react-router';
 import {fetchStub} from 'actions/stub';
+import {browserHistory} from 'react-router';
 import HomeComponent from 'component/HomeComponent';
 import FetchDataComponent from 'component/FetchDataComponent';
 
@@ -14,10 +14,18 @@ class Home extends Component {
      * Prints "Success!" to the console and redirects to the 'hello'
      * page.
      */
-    onSuccess = () => {
-        console.log("Success!");
+    onSuccess = (props) => {
+        console.log(props.data.videoURL);
         browserHistory.push("/video");
     };
+
+
+    componentWillReceiveProps(nextProps){
+        if(nextProps.data.videoURL &&
+            this.props.data.videoURL != nextProps.data.videoURL){
+            this.onSuccess(nextProps);
+        }
+    }
 
     render() {
         return (
