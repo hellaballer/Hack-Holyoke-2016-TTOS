@@ -36,7 +36,7 @@ public class StubbedController {
 	final Map<String, List<Time>> map;
 
 	public StubbedController() {
-		map = retrieveTimes("/home/kyle/Documents/output.txt");
+		map = retrieveTimes("/home/ubuntu/Documents/output.txt");
 //		map.putAll(retrieveTimes(pathName));
 		System.out.println("TIMES RETRIEVED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("MAP SIZE: " + map.size());
