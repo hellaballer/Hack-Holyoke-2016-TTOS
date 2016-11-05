@@ -1,3 +1,1103 @@
+hands:
+	(49.53, 50.06) /home/ubuntu/Documents/sec_team.mp4
+innocent:
+	(118.08, 118.44) /home/ubuntu/Documents/sec_team.mp4
+about:
+	(222.21, 222.5) /home/ubuntu/Documents/sec_team.mp4
+	(225.01, 225.28) /home/ubuntu/Documents/sec_team.mp4
+diplomats:
+	(215.06, 215.82) /home/ubuntu/Documents/sec_team.mp4
+fighting:
+	(34.22, 34.59) /home/ubuntu/Documents/sec_team.mp4
+anywhere:
+	(68.07, 68.67) /home/ubuntu/Documents/sec_team.mp4
+uncertain:
+	(135.41, 135.86) /home/ubuntu/Documents/sec_team.mp4
+America's:
+	(174.96, 175.43) /home/ubuntu/Documents/sec_team.mp4
+	(225.28, 225.72) /home/ubuntu/Documents/sec_team.mp4
+advance:
+	(119.48, 119.98) /home/ubuntu/Documents/sec_team.mp4
+	(257.6, 258.03) /home/ubuntu/Documents/sec_team.mp4
+these:
+	(78.51, 78.72) /home/ubuntu/Documents/sec_team.mp4
+	(205.76, 206.06) /home/ubuntu/Documents/sec_team.mp4
+civilians:
+	(118.44, 119.07) /home/ubuntu/Documents/sec_team.mp4
+diplomatic:
+	(73.2, 73.77) /home/ubuntu/Documents/sec_team.mp4
+worked:
+	(216.23, 216.55) /home/ubuntu/Documents/sec_team.mp4
+would:
+	(132.95, 133.09) /home/ubuntu/Documents/sec_team.mp4
+raises:
+	(44.62, 45.11) /home/ubuntu/Documents/sec_team.mp4
+strengthen:
+	(147.88, 148.38) /home/ubuntu/Documents/sec_team.mp4
+friend:
+	(230.63, 231.18) /home/ubuntu/Documents/sec_team.mp4
+	(262.73, 263.18) /home/ubuntu/Documents/sec_team.mp4
+understanding:
+	(91.82, 92.7) /home/ubuntu/Documents/sec_team.mp4
+because:
+	(172.68, 172.96) /home/ubuntu/Documents/sec_team.mp4
+state:
+	(244.85, 245.22) /home/ubuntu/Documents/sec_team.mp4
+	(284.82, 285.1) /home/ubuntu/Documents/sec_team.mp4
+you:
+	(5.41, 5.54) /home/ubuntu/Documents/sec_team.mp4
+victims:
+	(112.92, 113.53) /home/ubuntu/Documents/sec_team.mp4
+they:
+	(213.4, 213.54) /home/ubuntu/Documents/sec_team.mp4
+	(220.79, 220.93) /home/ubuntu/Documents/sec_team.mp4
+prime:
+	(122.68, 122.87) /home/ubuntu/Documents/sec_team.mp4
+grow:
+	(17.54, 17.81) /home/ubuntu/Documents/sec_team.mp4
+preventing:
+	(271.36, 271.73) /home/ubuntu/Documents/sec_team.mp4
+old:
+	(36.13, 36.41) /home/ubuntu/Documents/sec_team.mp4
+	(152.57, 152.87) /home/ubuntu/Documents/sec_team.mp4
+remain:
+	(36.95, 37.31) /home/ubuntu/Documents/sec_team.mp4
+past:
+	(203.19, 203.55) /home/ubuntu/Documents/sec_team.mp4
+opportunity:
+	(63.3, 64.0) /home/ubuntu/Documents/sec_team.mp4
+	(170.05, 170.96) /home/ubuntu/Documents/sec_team.mp4
+wonderful:
+	(5.97, 6.45) /home/ubuntu/Documents/sec_team.mp4
+economy:
+	(18.46, 19.0) /home/ubuntu/Documents/sec_team.mp4
+	(193.64, 194.39) /home/ubuntu/Documents/sec_team.mp4
+am:
+	(128.35, 128.44) /home/ubuntu/Documents/sec_team.mp4
+	(242.26, 242.37) /home/ubuntu/Documents/sec_team.mp4
+an:
+	(14.18, 14.27) /home/ubuntu/Documents/sec_team.mp4
+	(154.9, 155.05) /home/ubuntu/Documents/sec_team.mp4
+	(238.2, 238.28) /home/ubuntu/Documents/sec_team.mp4
+	(246.24, 246.3) /home/ubuntu/Documents/sec_team.mp4
+skillfully:
+	(181.61, 182.2) /home/ubuntu/Documents/sec_team.mp4
+as:
+	(12.87, 13.01) /home/ubuntu/Documents/sec_team.mp4
+	(29.74, 29.85) /home/ubuntu/Documents/sec_team.mp4
+	(32.09, 32.32) /home/ubuntu/Documents/sec_team.mp4
+	(97.25, 97.36) /home/ubuntu/Documents/sec_team.mp4
+	(166.7, 166.81) /home/ubuntu/Documents/sec_team.mp4
+	(214.95, 215.06) /home/ubuntu/Documents/sec_team.mp4
+	(216.55, 216.67) /home/ubuntu/Documents/sec_team.mp4
+	(226.1, 226.33) /home/ubuntu/Documents/sec_team.mp4
+	(230.36, 230.57) /home/ubuntu/Documents/sec_team.mp4
+	(298.64, 298.84) /home/ubuntu/Documents/sec_team.mp4
+at:
+	(59.48, 59.57) /home/ubuntu/Documents/sec_team.mp4
+globe:
+	(95.95, 96.25) /home/ubuntu/Documents/sec_team.mp4
+diplomacy:
+	(189.1, 189.82) /home/ubuntu/Documents/sec_team.mp4
+	(266.74, 267.5) /home/ubuntu/Documents/sec_team.mp4
+plans:
+	(204.22, 204.66) /home/ubuntu/Documents/sec_team.mp4
+peace:
+	(276.11, 276.43) /home/ubuntu/Documents/sec_team.mp4
+reality:
+	(80.05, 80.69) /home/ubuntu/Documents/sec_team.mp4
+oceans:
+	(104.06, 104.74) /home/ubuntu/Documents/sec_team.mp4
+must:
+	(57.9, 58.18) /home/ubuntu/Documents/sec_team.mp4
+	(70.32, 70.56) /home/ubuntu/Documents/sec_team.mp4
+	(90.3, 90.53) /home/ubuntu/Documents/sec_team.mp4
+	(179.55, 179.88) /home/ubuntu/Documents/sec_team.mp4
+eleven:
+	(98.74, 99.2) /home/ubuntu/Documents/sec_team.mp4
+dawn:
+	(139.72, 140.1) /home/ubuntu/Documents/sec_team.mp4
+much:
+	(270.08, 270.34) /home/ubuntu/Documents/sec_team.mp4
+Hillary's:
+	(260.73, 261.08) /home/ubuntu/Documents/sec_team.mp4
+shared:
+	(83.91, 84.35) /home/ubuntu/Documents/sec_team.mp4
+strong:
+	(59.08, 59.48) /home/ubuntu/Documents/sec_team.mp4
+	(60.46, 60.8) /home/ubuntu/Documents/sec_team.mp4
+strengthening:
+	(278.92, 279.57) /home/ubuntu/Documents/sec_team.mp4
+be:
+	(58.89, 59.08) /home/ubuntu/Documents/sec_team.mp4
+	(100.68, 100.88) /home/ubuntu/Documents/sec_team.mp4
+	(243.43, 243.66) /home/ubuntu/Documents/sec_team.mp4
+role:
+	(225.72, 226.1) /home/ubuntu/Documents/sec_team.mp4
+overcome:
+	(141.28, 141.68) /home/ubuntu/Documents/sec_team.mp4
+I:
+	(5.12, 5.26) /home/ubuntu/Documents/sec_team.mp4
+	(22.32, 22.59) /home/ubuntu/Documents/sec_team.mp4
+	(122.35, 122.42) /home/ubuntu/Documents/sec_team.mp4
+	(128.28, 128.35) /home/ubuntu/Documents/sec_team.mp4
+	(228.89, 229.06) /home/ubuntu/Documents/sec_team.mp4
+	(242.09, 242.26) /home/ubuntu/Documents/sec_team.mp4
+	(281.67, 281.79) /home/ubuntu/Documents/sec_team.mp4
+fundamental:
+	(79.58, 80.05) /home/ubuntu/Documents/sec_team.mp4
+global:
+	(74.84, 75.22) /home/ubuntu/Documents/sec_team.mp4
+strains:
+	(40.18, 40.83) /home/ubuntu/Documents/sec_team.mp4
+two:
+	(34.59, 34.79) /home/ubuntu/Documents/sec_team.mp4
+	(112.44, 112.63) /home/ubuntu/Documents/sec_team.mp4
+	(294.13, 294.3) /home/ubuntu/Documents/sec_team.mp4
+Mumbai:
+	(113.91, 114.37) /home/ubuntu/Documents/sec_team.mp4
+seek:
+	(115.75, 116.15) /home/ubuntu/Documents/sec_team.mp4
+	(178.52, 178.9) /home/ubuntu/Documents/sec_team.mp4
+elect:
+	(21.3, 21.69) /home/ubuntu/Documents/sec_team.mp4
+example:
+	(196.49, 196.93) /home/ubuntu/Documents/sec_team.mp4
+	(212.24, 212.75) /home/ubuntu/Documents/sec_team.mp4
+into:
+	(48.66, 49.03) /home/ubuntu/Documents/sec_team.mp4
+balances:
+	(183.07, 183.94) /home/ubuntu/Documents/sec_team.mp4
+secretary:
+	(244.12, 244.7) /home/ubuntu/Documents/sec_team.mp4
+	(296.42, 296.86) /home/ubuntu/Documents/sec_team.mp4
+	(298.84, 299.4) /home/ubuntu/Documents/sec_team.mp4
+tear:
+	(133.09, 133.36) /home/ubuntu/Documents/sec_team.mp4
+are:
+	(22.59, 22.78) /home/ubuntu/Documents/sec_team.mp4
+	(29.27, 29.41) /home/ubuntu/Documents/sec_team.mp4
+	(34.15, 34.22) /home/ubuntu/Documents/sec_team.mp4
+	(38.97, 39.03) /home/ubuntu/Documents/sec_team.mp4
+	(174.49, 174.93) /home/ubuntu/Documents/sec_team.mp4
+defense:
+	(160.85, 161.32) /home/ubuntu/Documents/sec_team.mp4
+	(299.52, 299.99) /home/ubuntu/Documents/sec_team.mp4
+by:
+	(101.34, 101.49) /home/ubuntu/Documents/sec_team.mp4
+	(103.82, 104.06) /home/ubuntu/Documents/sec_team.mp4
+aspect:
+	(295.51, 295.97) /home/ubuntu/Documents/sec_team.mp4
+national:
+	(24.33, 24.75) /home/ubuntu/Documents/sec_team.mp4
+	(26.81, 27.19) /home/ubuntu/Documents/sec_team.mp4
+so:
+	(65.57, 65.77) /home/ubuntu/Documents/sec_team.mp4
+	(97.76, 97.91) /home/ubuntu/Documents/sec_team.mp4
+	(134.81, 135.11) /home/ubuntu/Documents/sec_team.mp4
+embedded:
+	(145.33, 145.98) /home/ubuntu/Documents/sec_team.mp4
+policy:
+	(289.04, 289.51) /home/ubuntu/Documents/sec_team.mp4
+Palestinians:
+	(277.55, 278.55) /home/ubuntu/Documents/sec_team.mp4
+a:
+	(5.87, 5.97) /home/ubuntu/Documents/sec_team.mp4
+	(94.27, 94.33) /home/ubuntu/Documents/sec_team.mp4
+	(138.18, 138.26) /home/ubuntu/Documents/sec_team.mp4
+	(139.45, 139.53) /home/ubuntu/Documents/sec_team.mp4
+	(166.81, 166.87) /home/ubuntu/Documents/sec_team.mp4
+	(180.35, 180.49) /home/ubuntu/Documents/sec_team.mp4
+	(226.33, 226.4) /home/ubuntu/Documents/sec_team.mp4
+	(230.57, 230.63) /home/ubuntu/Documents/sec_team.mp4
+	(231.51, 231.54) /home/ubuntu/Documents/sec_team.mp4
+	(232.63, 232.76) /home/ubuntu/Documents/sec_team.mp4
+	(234.92, 235.14) /home/ubuntu/Documents/sec_team.mp4
+	(240.2, 240.23) /home/ubuntu/Documents/sec_team.mp4
+	(261.81, 261.89) /home/ubuntu/Documents/sec_team.mp4
+	(275.58, 275.66) /home/ubuntu/Documents/sec_team.mp4
+vice:
+	(20.52, 20.78) /home/ubuntu/Documents/sec_team.mp4
+committed:
+	(165.13, 165.52) /home/ubuntu/Documents/sec_team.mp4
+ideals:
+	(165.73, 166.19) /home/ubuntu/Documents/sec_team.mp4
+learn:
+	(97.48, 97.76) /home/ubuntu/Documents/sec_team.mp4
+jobs:
+	(16.0, 16.54) /home/ubuntu/Documents/sec_team.mp4
+enemies:
+	(149.5, 149.97) /home/ubuntu/Documents/sec_team.mp4
+team:
+	(11.47, 11.67) /home/ubuntu/Documents/sec_team.mp4
+	(25.17, 25.43) /home/ubuntu/Documents/sec_team.mp4
+	(197.65, 197.91) /home/ubuntu/Documents/sec_team.mp4
+right:
+	(283.78, 284.01) /home/ubuntu/Documents/sec_team.mp4
+many:
+	(251.53, 251.8) /home/ubuntu/Documents/sec_team.mp4
+people:
+	(126.07, 126.37) /home/ubuntu/Documents/sec_team.mp4
+	(161.75, 162.25) /home/ubuntu/Documents/sec_team.mp4
+democracy:
+	(129.96, 130.62) /home/ubuntu/Documents/sec_team.mp4
+	(168.26, 168.93) /home/ubuntu/Documents/sec_team.mp4
+transition:
+	(292.79, 293.51) /home/ubuntu/Documents/sec_team.mp4
+the:
+	(26.71, 26.81) /home/ubuntu/Documents/sec_team.mp4
+	(41.17, 41.29) /home/ubuntu/Documents/sec_team.mp4
+	(45.11, 45.23) /home/ubuntu/Documents/sec_team.mp4
+	(46.25, 46.43) /home/ubuntu/Documents/sec_team.mp4
+	(76.86, 76.92) /home/ubuntu/Documents/sec_team.mp4
+	(79.5, 79.58) /home/ubuntu/Documents/sec_team.mp4
+	(81.43, 81.51) /home/ubuntu/Documents/sec_team.mp4
+	(84.49, 84.56) /home/ubuntu/Documents/sec_team.mp4
+	(95.86, 95.95) /home/ubuntu/Documents/sec_team.mp4
+	(109.72, 109.81) /home/ubuntu/Documents/sec_team.mp4
+	(115.25, 115.32) /home/ubuntu/Documents/sec_team.mp4
+	(126.01, 126.07) /home/ubuntu/Documents/sec_team.mp4
+	(126.98, 127.09) /home/ubuntu/Documents/sec_team.mp4
+	(136.93, 136.99) /home/ubuntu/Documents/sec_team.mp4
+	(141.68, 141.76) /home/ubuntu/Documents/sec_team.mp4
+	(142.29, 142.43) /home/ubuntu/Documents/sec_team.mp4
+	(144.4, 144.5) /home/ubuntu/Documents/sec_team.mp4
+	(157.29, 157.38) /home/ubuntu/Documents/sec_team.mp4
+	(160.77, 160.85) /home/ubuntu/Documents/sec_team.mp4
+	(165.62, 165.73) /home/ubuntu/Documents/sec_team.mp4
+	(167.36, 167.43) /home/ubuntu/Documents/sec_team.mp4
+	(176.48, 176.56) /home/ubuntu/Documents/sec_team.mp4
+	(195.43, 195.54) /home/ubuntu/Documents/sec_team.mp4
+	(197.59, 197.65) /home/ubuntu/Documents/sec_team.mp4
+	(203.1, 203.19) /home/ubuntu/Documents/sec_team.mp4
+	(204.79, 204.87) /home/ubuntu/Documents/sec_team.mp4
+	(210.39, 210.5) /home/ubuntu/Documents/sec_team.mp4
+	(211.74, 211.82) /home/ubuntu/Documents/sec_team.mp4
+	(222.5, 222.59) /home/ubuntu/Documents/sec_team.mp4
+	(227.32, 227.38) /home/ubuntu/Documents/sec_team.mp4
+	(251.9, 251.98) /home/ubuntu/Documents/sec_team.mp4
+	(256.94, 257.02) /home/ubuntu/Documents/sec_team.mp4
+	(259.3, 259.36) /home/ubuntu/Documents/sec_team.mp4
+	(264.36, 264.45) /home/ubuntu/Documents/sec_team.mp4
+	(271.73, 271.81) /home/ubuntu/Documents/sec_team.mp4
+	(277.49, 277.55) /home/ubuntu/Documents/sec_team.mp4
+	(283.7, 283.78) /home/ubuntu/Documents/sec_team.mp4
+	(291.07, 291.14) /home/ubuntu/Documents/sec_team.mp4
+face:
+	(28.72, 29.24) /home/ubuntu/Documents/sec_team.mp4
+	(291.71, 292.05) /home/ubuntu/Documents/sec_team.mp4
+Hillary:
+	(229.57, 229.95) /home/ubuntu/Documents/sec_team.mp4
+	(282.8, 283.08) /home/ubuntu/Documents/sec_team.mp4
+stature:
+	(247.49, 248.0) /home/ubuntu/Documents/sec_team.mp4
+unprecedented:
+	(292.05, 292.79) /home/ubuntu/Documents/sec_team.mp4
+to:
+	(13.52, 13.64) /home/ubuntu/Documents/sec_team.mp4
+	(15.61, 15.72) /home/ubuntu/Documents/sec_team.mp4
+	(23.18, 23.26) /home/ubuntu/Documents/sec_team.mp4
+	(39.86, 39.95) /home/ubuntu/Documents/sec_team.mp4
+	(62.25, 62.32) /home/ubuntu/Documents/sec_team.mp4
+	(64.34, 64.5) /home/ubuntu/Documents/sec_team.mp4
+	(86.51, 86.64) /home/ubuntu/Documents/sec_team.mp4
+	(88.96, 89.08) /home/ubuntu/Documents/sec_team.mp4
+	(119.36, 119.48) /home/ubuntu/Documents/sec_team.mp4
+	(141.15, 141.28) /home/ubuntu/Documents/sec_team.mp4
+	(149.01, 149.15) /home/ubuntu/Documents/sec_team.mp4
+	(165.52, 165.62) /home/ubuntu/Documents/sec_team.mp4
+	(167.23, 167.36) /home/ubuntu/Documents/sec_team.mp4
+	(176.36, 176.48) /home/ubuntu/Documents/sec_team.mp4
+	(201.11, 201.19) /home/ubuntu/Documents/sec_team.mp4
+	(257.45, 257.6) /home/ubuntu/Documents/sec_team.mp4
+	(262.61, 262.73) /home/ubuntu/Documents/sec_team.mp4
+	(265.89, 266.01) /home/ubuntu/Documents/sec_team.mp4
+	(270.34, 270.47) /home/ubuntu/Documents/sec_team.mp4
+	(273.35, 273.49) /home/ubuntu/Documents/sec_team.mp4
+	(284.36, 284.47) /home/ubuntu/Documents/sec_team.mp4
+	(297.58, 297.7) /home/ubuntu/Documents/sec_team.mp4
+Israel:
+	(276.92, 277.38) /home/ubuntu/Documents/sec_team.mp4
+citizens:
+	(64.85, 65.5) /home/ubuntu/Documents/sec_team.mp4
+represent:
+	(206.82, 207.57) /home/ubuntu/Documents/sec_team.mp4
+they've:
+	(215.98, 216.23) /home/ubuntu/Documents/sec_team.mp4
+compete:
+	(66.61, 67.06) /home/ubuntu/Documents/sec_team.mp4
+nine:
+	(98.56, 98.74) /home/ubuntu/Documents/sec_team.mp4
+treat:
+	(149.15, 149.39) /home/ubuntu/Documents/sec_team.mp4
+strength:
+	(72.19, 72.63) /home/ubuntu/Documents/sec_team.mp4
+had:
+	(5.67, 5.87) /home/ubuntu/Documents/sec_team.mp4
+do:
+	(201.19, 201.4) /home/ubuntu/Documents/sec_team.mp4
+	(270.47, 270.71) /home/ubuntu/Documents/sec_team.mp4
+source:
+	(232.76, 233.21) /home/ubuntu/Documents/sec_team.mp4
+down:
+	(133.36, 133.72) /home/ubuntu/Documents/sec_team.mp4
+painfully:
+	(97.91, 98.43) /home/ubuntu/Documents/sec_team.mp4
+endangers:
+	(54.76, 55.34) /home/ubuntu/Documents/sec_team.mp4
+act:
+	(90.53, 90.86) /home/ubuntu/Documents/sec_team.mp4
+continue:
+	(297.7, 298.27) /home/ubuntu/Documents/sec_team.mp4
+warning:
+	(4.13, 4.38) /home/ubuntu/Documents/sec_team.mp4
+military:
+	(71.66, 72.19) /home/ubuntu/Documents/sec_team.mp4
+	(187.44, 188.17) /home/ubuntu/Documents/sec_team.mp4
+North:
+	(273.95, 274.18) /home/ubuntu/Documents/sec_team.mp4
+up:
+	(4.75, 4.95) /home/ubuntu/Documents/sec_team.mp4
+has:
+	(137.34, 137.5) /home/ubuntu/Documents/sec_team.mp4
+export:
+	(175.8, 176.33) /home/ubuntu/Documents/sec_team.mp4
+those:
+	(117.42, 117.7) /home/ubuntu/Documents/sec_team.mp4
+	(146.29, 146.5) /home/ubuntu/Documents/sec_team.mp4
+	(208.22, 208.45) /home/ubuntu/Documents/sec_team.mp4
+which:
+	(12.14, 12.41) /home/ubuntu/Documents/sec_team.mp4
+last:
+	(9.27, 9.63) /home/ubuntu/Documents/sec_team.mp4
+	(106.28, 106.65) /home/ubuntu/Documents/sec_team.mp4
+minister:
+	(122.87, 123.18) /home/ubuntu/Documents/sec_team.mp4
+need:
+	(62.11, 62.25) /home/ubuntu/Documents/sec_team.mp4
+planet:
+	(55.51, 55.9) /home/ubuntu/Documents/sec_team.mp4
+this:
+	(107.61, 107.78) /home/ubuntu/Documents/sec_team.mp4
+	(121.85, 121.96) /home/ubuntu/Documents/sec_team.mp4
+	(135.22, 135.41) /home/ubuntu/Documents/sec_team.mp4
+	(287.87, 288.1) /home/ubuntu/Documents/sec_team.mp4
+enforcement:
+	(192.46, 193.05) /home/ubuntu/Documents/sec_team.mp4
+	(218.06, 218.59) /home/ubuntu/Documents/sec_team.mp4
+doubt:
+	(282.19, 282.6) /home/ubuntu/Documents/sec_team.mp4
+respect:
+	(253.81, 254.44) /home/ubuntu/Documents/sec_team.mp4
+technologies:
+	(47.23, 48.05) /home/ubuntu/Documents/sec_team.mp4
+remarkable:
+	(240.23, 240.94) /home/ubuntu/Documents/sec_team.mp4
+announced:
+	(10.53, 10.9) /home/ubuntu/Documents/sec_team.mp4
+she:
+	(237.48, 237.54) /home/ubuntu/Documents/sec_team.mp4
+	(243.12, 243.28) /home/ubuntu/Documents/sec_team.mp4
+beacon:
+	(166.87, 167.23) /home/ubuntu/Documents/sec_team.mp4
+suited:
+	(200.26, 200.78) /home/ubuntu/Documents/sec_team.mp4
+once:
+	(108.09, 108.34) /home/ubuntu/Documents/sec_team.mp4
+	(157.67, 157.96) /home/ubuntu/Documents/sec_team.mp4
+forge:
+	(153.89, 154.23) /home/ubuntu/Documents/sec_team.mp4
+campaign:
+	(235.71, 236.22) /home/ubuntu/Documents/sec_team.mp4
+wars:
+	(34.79, 35.34) /home/ubuntu/Documents/sec_team.mp4
+	(294.3, 294.89) /home/ubuntu/Documents/sec_team.mp4
+support:
+	(150.46, 150.83) /home/ubuntu/Documents/sec_team.mp4
+foe:
+	(263.39, 263.89) /home/ubuntu/Documents/sec_team.mp4
+lasting:
+	(275.66, 276.11) /home/ubuntu/Documents/sec_team.mp4
+next:
+	(243.83, 244.12) /home/ubuntu/Documents/sec_team.mp4
+destiny:
+	(83.16, 83.75) /home/ubuntu/Documents/sec_team.mp4
+killers:
+	(132.08, 132.63) /home/ubuntu/Documents/sec_team.mp4
+beginning:
+	(138.43, 138.8) /home/ubuntu/Documents/sec_team.mp4
+provided:
+	(103.09, 103.79) /home/ubuntu/Documents/sec_team.mp4
+nearly:
+	(112.11, 112.44) /home/ubuntu/Documents/sec_team.mp4
+for:
+	(117.29, 117.42) /home/ubuntu/Documents/sec_team.mp4
+	(137.95, 138.18) /home/ubuntu/Documents/sec_team.mp4
+	(204.66, 204.79) /home/ubuntu/Documents/sec_team.mp4
+show:
+	(157.06, 157.29) /home/ubuntu/Documents/sec_team.mp4
+we:
+	(10.29, 10.53) /home/ubuntu/Documents/sec_team.mp4
+	(13.01, 13.15) /home/ubuntu/Documents/sec_team.mp4
+	(33.99, 34.15) /home/ubuntu/Documents/sec_team.mp4
+	(38.84, 38.97) /home/ubuntu/Documents/sec_team.mp4
+	(61.98, 62.11) /home/ubuntu/Documents/sec_team.mp4
+	(90.14, 90.3) /home/ubuntu/Documents/sec_team.mp4
+	(93.93, 94.09) /home/ubuntu/Documents/sec_team.mp4
+	(97.36, 97.48) /home/ubuntu/Documents/sec_team.mp4
+	(106.89, 107.0) /home/ubuntu/Documents/sec_team.mp4
+	(115.63, 115.75) /home/ubuntu/Documents/sec_team.mp4
+	(147.65, 147.79) /home/ubuntu/Documents/sec_team.mp4
+	(151.95, 152.11) /home/ubuntu/Documents/sec_team.mp4
+	(179.4, 179.55) /home/ubuntu/Documents/sec_team.mp4
+	(291.59, 291.71) /home/ubuntu/Documents/sec_team.mp4
+nor:
+	(102.37, 102.6) /home/ubuntu/Documents/sec_team.mp4
+gates:
+	(297.19, 297.58) /home/ubuntu/Documents/sec_team.mp4
+common:
+	(76.92, 77.25) /home/ubuntu/Documents/sec_team.mp4
+world's:
+	(46.43, 46.8) /home/ubuntu/Documents/sec_team.mp4
+	(84.56, 85.08) /home/ubuntu/Documents/sec_team.mp4
+	(251.98, 252.28) /home/ubuntu/Documents/sec_team.mp4
+now:
+	(92.91, 93.12) /home/ubuntu/Documents/sec_team.mp4
+conflicts:
+	(36.41, 36.95) /home/ubuntu/Documents/sec_team.mp4
+assembled:
+	(198.19, 198.64) /home/ubuntu/Documents/sec_team.mp4
+nuclear:
+	(43.55, 43.89) /home/ubuntu/Documents/sec_team.mp4
+	(272.17, 272.49) /home/ubuntu/Documents/sec_team.mp4
+just:
+	(29.41, 29.74) /home/ubuntu/Documents/sec_team.mp4
+	(201.4, 201.78) /home/ubuntu/Documents/sec_team.mp4
+every:
+	(65.77, 66.01) /home/ubuntu/Documents/sec_team.mp4
+	(254.6, 254.85) /home/ubuntu/Documents/sec_team.mp4
+steady:
+	(162.71, 163.24) /home/ubuntu/Documents/sec_team.mp4
+Korea:
+	(274.18, 274.62) /home/ubuntu/Documents/sec_team.mp4
+we'll:
+	(156.86, 157.06) /home/ubuntu/Documents/sec_team.mp4
+six:
+	(110.27, 110.55) /home/ubuntu/Documents/sec_team.mp4
+again:
+	(108.34, 108.65) /home/ubuntu/Documents/sec_team.mp4
+start:
+	(127.09, 127.47) /home/ubuntu/Documents/sec_team.mp4
+way:
+	(102.93, 103.09) /home/ubuntu/Documents/sec_team.mp4
+adoring:
+	(155.05, 155.43) /home/ubuntu/Documents/sec_team.mp4
+home:
+	(59.57, 60.02) /home/ubuntu/Documents/sec_team.mp4
+with:
+	(67.06, 67.22) /home/ubuntu/Documents/sec_team.mp4
+	(84.35, 84.49) /home/ubuntu/Documents/sec_team.mp4
+	(90.86, 90.99) /home/ubuntu/Documents/sec_team.mp4
+	(125.91, 126.01) /home/ubuntu/Documents/sec_team.mp4
+	(286.44, 286.61) /home/ubuntu/Documents/sec_team.mp4
+what:
+	(94.92, 95.09) /home/ubuntu/Documents/sec_team.mp4
+service:
+	(203.55, 204.04) /home/ubuntu/Documents/sec_team.mp4
+there:
+	(116.15, 116.28) /home/ubuntu/Documents/sec_team.mp4
+time:
+	(127.47, 127.87) /home/ubuntu/Documents/sec_team.mp4
+	(136.99, 137.34) /home/ubuntu/Documents/sec_team.mp4
+	(291.14, 291.47) /home/ubuntu/Documents/sec_team.mp4
+renew:
+	(152.24, 152.57) /home/ubuntu/Documents/sec_team.mp4
+	(266.01, 266.32) /home/ubuntu/Documents/sec_team.mp4
+happens:
+	(95.09, 95.48) /home/ubuntu/Documents/sec_team.mp4
+president:
+	(20.78, 21.27) /home/ubuntu/Documents/sec_team.mp4
+very:
+	(210.5, 210.74) /home/ubuntu/Documents/sec_team.mp4
+leader:
+	(226.4, 226.9) /home/ubuntu/Documents/sec_team.mp4
+injustice:
+	(30.6, 31.1) /home/ubuntu/Documents/sec_team.mp4
+education:
+	(62.68, 63.3) /home/ubuntu/Documents/sec_team.mp4
+told:
+	(122.42, 122.68) /home/ubuntu/Documents/sec_team.mp4
+governments:
+	(53.53, 54.16) /home/ubuntu/Documents/sec_team.mp4
+program:
+	(15.16, 15.61) /home/ubuntu/Documents/sec_team.mp4
+hope:
+	(5.26, 5.41) /home/ubuntu/Documents/sec_team.mp4
+	(171.71, 172.05) /home/ubuntu/Documents/sec_team.mp4
+when:
+	(108.91, 109.15) /home/ubuntu/Documents/sec_team.mp4
+	(291.47, 291.59) /home/ubuntu/Documents/sec_team.mp4
+put:
+	(39.95, 40.18) /home/ubuntu/Documents/sec_team.mp4
+moral:
+	(196.17, 196.49) /home/ubuntu/Documents/sec_team.mp4
+Iran:
+	(273.49, 273.86) /home/ubuntu/Documents/sec_team.mp4
+officials:
+	(218.59, 219.2) /home/ubuntu/Documents/sec_team.mp4
+struggling:
+	(17.97, 18.46) /home/ubuntu/Documents/sec_team.mp4
+between:
+	(276.43, 276.89) /home/ubuntu/Documents/sec_team.mp4
+there's:
+	(269.88, 270.08) /home/ubuntu/Documents/sec_team.mp4
+counsel:
+	(233.39, 234.03) /home/ubuntu/Documents/sec_team.mp4
+lives:
+	(109.81, 110.18) /home/ubuntu/Documents/sec_team.mp4
+in:
+	(81.28, 81.43) /home/ubuntu/Documents/sec_team.mp4
+	(94.81, 94.92) /home/ubuntu/Documents/sec_team.mp4
+	(113.72, 113.91) /home/ubuntu/Documents/sec_team.mp4
+	(115.13, 115.25) /home/ubuntu/Documents/sec_team.mp4
+	(126.77, 126.98) /home/ubuntu/Documents/sec_team.mp4
+	(135.11, 135.22) /home/ubuntu/Documents/sec_team.mp4
+	(146.08, 146.29) /home/ubuntu/Documents/sec_team.mp4
+	(160.61, 160.77) /home/ubuntu/Documents/sec_team.mp4
+	(163.29, 163.46) /home/ubuntu/Documents/sec_team.mp4
+	(203.0, 203.1) /home/ubuntu/Documents/sec_team.mp4
+	(213.92, 214.02) /home/ubuntu/Documents/sec_team.mp4
+	(227.14, 227.32) /home/ubuntu/Documents/sec_team.mp4
+	(254.47, 254.6) /home/ubuntu/Documents/sec_team.mp4
+	(286.91, 287.04) /home/ubuntu/Documents/sec_team.mp4
+linking:
+	(77.9, 78.46) /home/ubuntu/Documents/sec_team.mp4
+work:
+	(240.97, 241.27) /home/ubuntu/Documents/sec_team.mp4
+	(286.13, 286.44) /home/ubuntu/Documents/sec_team.mp4
+resilient:
+	(130.97, 131.52) /home/ubuntu/Documents/sec_team.mp4
+is:
+	(12.41, 12.52) /home/ubuntu/Documents/sec_team.mp4
+	(79.35, 79.5) /home/ubuntu/Documents/sec_team.mp4
+	(83.75, 83.91) /home/ubuntu/Documents/sec_team.mp4
+	(116.28, 116.43) /home/ubuntu/Documents/sec_team.mp4
+	(130.62, 130.77) /home/ubuntu/Documents/sec_team.mp4
+	(159.19, 159.41) /home/ubuntu/Documents/sec_team.mp4
+	(199.61, 199.81) /home/ubuntu/Documents/sec_team.mp4
+	(246.13, 246.24) /home/ubuntu/Documents/sec_team.mp4
+	(261.62, 261.81) /home/ubuntu/Documents/sec_team.mp4
+	(283.51, 283.7) /home/ubuntu/Documents/sec_team.mp4
+come:
+	(137.5, 137.91) /home/ubuntu/Documents/sec_team.mp4
+sense:
+	(224.1, 224.45) /home/ubuntu/Documents/sec_team.mp4
+tough:
+	(235.14, 235.64) /home/ubuntu/Documents/sec_team.mp4
+announce:
+	(23.26, 23.83) /home/ubuntu/Documents/sec_team.mp4
+I'm:
+	(165.07, 165.13) /home/ubuntu/Documents/sec_team.mp4
+	(295.34, 295.51) /home/ubuntu/Documents/sec_team.mp4
+India:
+	(124.45, 124.79) /home/ubuntu/Documents/sec_team.mp4
+	(126.48, 126.77) /home/ubuntu/Documents/sec_team.mp4
+intelligence:
+	(190.68, 191.59) /home/ubuntu/Documents/sec_team.mp4
+	(238.88, 239.76) /home/ubuntu/Documents/sec_team.mp4
+unresolved:
+	(37.31, 38.05) /home/ubuntu/Documents/sec_team.mp4
+ever:
+	(93.48, 93.84) /home/ubuntu/Documents/sec_team.mp4
+system:
+	(41.86, 42.28) /home/ubuntu/Documents/sec_team.mp4
+we've:
+	(198.01, 198.19) /home/ubuntu/Documents/sec_team.mp4
+provide:
+	(62.32, 62.68) /home/ubuntu/Documents/sec_team.mp4
+anyone:
+	(67.22, 67.77) /home/ubuntu/Documents/sec_team.mp4
+among:
+	(111.61, 111.96) /home/ubuntu/Documents/sec_team.mp4
+served:
+	(213.54, 213.92) /home/ubuntu/Documents/sec_team.mp4
+legislators:
+	(216.67, 217.59) /home/ubuntu/Documents/sec_team.mp4
+weapons:
+	(43.89, 44.47) /home/ubuntu/Documents/sec_team.mp4
+	(272.49, 273.06) /home/ubuntu/Documents/sec_team.mp4
+women:
+	(206.39, 206.78) /home/ubuntu/Documents/sec_team.mp4
+tackling:
+	(287.04, 287.64) /home/ubuntu/Documents/sec_team.mp4
+hundred:
+	(112.63, 112.92) /home/ubuntu/Documents/sec_team.mp4
+American:
+	(66.01, 66.45) /home/ubuntu/Documents/sec_team.mp4
+	(125.02, 125.49) /home/ubuntu/Documents/sec_team.mp4
+	(140.2, 140.59) /home/ubuntu/Documents/sec_team.mp4
+	(172.96, 173.36) /home/ubuntu/Documents/sec_team.mp4
+	(186.0, 186.42) /home/ubuntu/Documents/sec_team.mp4
+	(208.98, 209.38) /home/ubuntu/Documents/sec_team.mp4
+	(211.82, 212.24) /home/ubuntu/Documents/sec_team.mp4
+	(246.3, 246.81) /home/ubuntu/Documents/sec_team.mp4
+	(266.32, 266.74) /home/ubuntu/Documents/sec_team.mp4
+seize:
+	(144.01, 144.4) /home/ubuntu/Documents/sec_team.mp4
+weekend:
+	(121.96, 122.35) /home/ubuntu/Documents/sec_team.mp4
+confident:
+	(128.44, 129.08) /home/ubuntu/Documents/sec_team.mp4
+our:
+	(10.9, 11.01) /home/ubuntu/Documents/sec_team.mp4
+	(17.81, 17.97) /home/ubuntu/Documents/sec_team.mp4
+	(24.17, 24.33) /home/ubuntu/Documents/sec_team.mp4
+	(32.32, 32.43) /home/ubuntu/Documents/sec_team.mp4
+	(35.83, 36.1) /home/ubuntu/Documents/sec_team.mp4
+	(50.71, 50.88) /home/ubuntu/Documents/sec_team.mp4
+	(55.34, 55.51) /home/ubuntu/Documents/sec_team.mp4
+	(64.74, 64.85) /home/ubuntu/Documents/sec_team.mp4
+	(69.47, 69.56) /home/ubuntu/Documents/sec_team.mp4
+	(71.12, 71.53) /home/ubuntu/Documents/sec_team.mp4
+	(73.04, 73.2) /home/ubuntu/Documents/sec_team.mp4
+	(74.74, 74.84) /home/ubuntu/Documents/sec_team.mp4
+	(83.0, 83.16) /home/ubuntu/Documents/sec_team.mp4
+	(85.79, 85.91) /home/ubuntu/Documents/sec_team.mp4
+	(86.64, 86.75) /home/ubuntu/Documents/sec_team.mp4
+	(87.73, 87.84) /home/ubuntu/Documents/sec_team.mp4
+	(89.08, 89.2) /home/ubuntu/Documents/sec_team.mp4
+	(148.38, 148.5) /home/ubuntu/Documents/sec_team.mp4
+	(149.39, 149.5) /home/ubuntu/Documents/sec_team.mp4
+	(150.83, 151.0) /home/ubuntu/Documents/sec_team.mp4
+	(161.57, 161.75) /home/ubuntu/Documents/sec_team.mp4
+	(163.97, 164.12) /home/ubuntu/Documents/sec_team.mp4
+	(187.28, 187.44) /home/ubuntu/Documents/sec_team.mp4
+	(190.5, 190.68) /home/ubuntu/Documents/sec_team.mp4
+	(193.46, 193.64) /home/ubuntu/Documents/sec_team.mp4
+	(196.05, 196.17) /home/ubuntu/Documents/sec_team.mp4
+	(243.66, 243.83) /home/ubuntu/Documents/sec_team.mp4
+	(258.03, 258.17) /home/ubuntu/Documents/sec_team.mp4
+	(268.48, 268.68) /home/ubuntu/Documents/sec_team.mp4
+	(284.7, 284.82) /home/ubuntu/Documents/sec_team.mp4
+foreign:
+	(51.46, 51.75) /home/ubuntu/Documents/sec_team.mp4
+	(288.79, 289.04) /home/ubuntu/Documents/sec_team.mp4
+capacity:
+	(148.5, 149.01) /home/ubuntu/Documents/sec_team.mp4
+across:
+	(95.48, 95.86) /home/ubuntu/Documents/sec_team.mp4
+uniform:
+	(214.02, 214.72) /home/ubuntu/Documents/sec_team.mp4
+world:
+	(115.32, 115.63) /home/ubuntu/Documents/sec_team.mp4
+	(135.86, 136.35) /home/ubuntu/Documents/sec_team.mp4
+	(157.38, 157.67) /home/ubuntu/Documents/sec_team.mp4
+	(167.43, 167.75) /home/ubuntu/Documents/sec_team.mp4
+	(176.56, 176.92) /home/ubuntu/Documents/sec_team.mp4
+	(227.38, 227.7) /home/ubuntu/Documents/sec_team.mp4
+	(259.36, 259.72) /home/ubuntu/Documents/sec_team.mp4
+fall:
+	(48.26, 48.66) /home/ubuntu/Documents/sec_team.mp4
+partnerships:
+	(155.43, 156.25) /home/ubuntu/Documents/sec_team.mp4
+known:
+	(229.18, 229.54) /home/ubuntu/Documents/sec_team.mp4
+have:
+	(94.09, 94.27) /home/ubuntu/Documents/sec_team.mp4
+	(229.06, 229.18) /home/ubuntu/Documents/sec_team.mp4
+	(248.59, 248.86) /home/ubuntu/Documents/sec_team.mp4
+	(256.72, 256.94) /home/ubuntu/Documents/sec_team.mp4
+	(281.79, 282.0) /home/ubuntu/Documents/sec_team.mp4
+peril:
+	(45.23, 45.77) /home/ubuntu/Documents/sec_team.mp4
+dependence:
+	(50.88, 51.32) /home/ubuntu/Documents/sec_team.mp4
+speak:
+	(13.15, 13.52) /home/ubuntu/Documents/sec_team.mp4
+share:
+	(220.93, 221.23) /home/ubuntu/Documents/sec_team.mp4
+power:
+	(70.0, 70.32) /home/ubuntu/Documents/sec_team.mp4
+	(186.42, 186.75) /home/ubuntu/Documents/sec_team.mp4
+	(195.54, 195.97) /home/ubuntu/Documents/sec_team.mp4
+	(209.38, 209.89) /home/ubuntu/Documents/sec_team.mp4
+	(222.89, 223.32) /home/ubuntu/Documents/sec_team.mp4
+place:
+	(116.55, 117.21) /home/ubuntu/Documents/sec_team.mp4
+ability:
+	(257.02, 257.45) /home/ubuntu/Documents/sec_team.mp4
+urgent:
+	(31.1, 31.5) /home/ubuntu/Documents/sec_team.mp4
+stand:
+	(125.49, 125.91) /home/ubuntu/Documents/sec_team.mp4
+twenty:
+	(81.51, 81.77) /home/ubuntu/Documents/sec_team.mp4
+	(142.43, 142.69) /home/ubuntu/Documents/sec_team.mp4
+knows:
+	(251.15, 251.53) /home/ubuntu/Documents/sec_team.mp4
+amidst:
+	(293.54, 294.07) /home/ubuntu/Documents/sec_team.mp4
+authoritarian:
+	(52.91, 53.53) /home/ubuntu/Documents/sec_team.mp4
+could:
+	(48.09, 48.26) /home/ubuntu/Documents/sec_team.mp4
+more:
+	(93.12, 93.34) /home/ubuntu/Documents/sec_team.mp4
+	(130.77, 130.97) /home/ubuntu/Documents/sec_team.mp4
+	(157.96, 158.51) /home/ubuntu/Documents/sec_team.mp4
+health:
+	(88.18, 88.47) /home/ubuntu/Documents/sec_team.mp4
+climate:
+	(89.2, 89.65) /home/ubuntu/Documents/sec_team.mp4
+kill:
+	(117.79, 118.08) /home/ubuntu/Documents/sec_team.mp4
+uniquely:
+	(199.81, 200.26) /home/ubuntu/Documents/sec_team.mp4
+great:
+	(129.67, 129.96) /home/ubuntu/Documents/sec_team.mp4
+opportunities:
+	(144.5, 145.33) /home/ubuntu/Documents/sec_team.mp4
+agenda:
+	(289.51, 289.91) /home/ubuntu/Documents/sec_team.mp4
+lead:
+	(284.47, 284.7) /home/ubuntu/Documents/sec_team.mp4
+century:
+	(82.04, 82.51) /home/ubuntu/Documents/sec_team.mp4
+	(142.98, 143.48) /home/ubuntu/Documents/sec_team.mp4
+reminded:
+	(107.06, 107.5) /home/ubuntu/Documents/sec_team.mp4
+future:
+	(204.87, 205.37) /home/ubuntu/Documents/sec_team.mp4
+seriousness:
+	(264.45, 265.1) /home/ubuntu/Documents/sec_team.mp4
+elements:
+	(185.28, 185.84) /home/ubuntu/Documents/sec_team.mp4
+	(208.45, 208.88) /home/ubuntu/Documents/sec_team.mp4
+thanksgiving:
+	(6.45, 7.09) /home/ubuntu/Documents/sec_team.mp4
+pleased:
+	(22.78, 23.18) /home/ubuntu/Documents/sec_team.mp4
+cannot:
+	(100.3, 100.68) /home/ubuntu/Documents/sec_team.mp4
+advancing:
+	(163.46, 163.97) /home/ubuntu/Documents/sec_team.mp4
+powers:
+	(39.35, 39.86) /home/ubuntu/Documents/sec_team.mp4
+interests:
+	(164.12, 164.77) /home/ubuntu/Documents/sec_team.mp4
+	(258.17, 258.69) /home/ubuntu/Documents/sec_team.mp4
+complete:
+	(249.02, 249.59) /home/ubuntu/Documents/sec_team.mp4
+economic:
+	(11.01, 11.47) /home/ubuntu/Documents/sec_team.mp4
+	(14.27, 14.76) /home/ubuntu/Documents/sec_team.mp4
+	(32.43, 32.88) /home/ubuntu/Documents/sec_team.mp4
+	(69.56, 70.0) /home/ubuntu/Documents/sec_team.mp4
+first:
+	(81.77, 82.04) /home/ubuntu/Documents/sec_team.mp4
+	(142.69, 142.98) /home/ubuntu/Documents/sec_team.mp4
+unyielding:
+	(171.21, 171.71) /home/ubuntu/Documents/sec_team.mp4
+capital:
+	(254.85, 255.44) /home/ubuntu/Documents/sec_team.mp4
+use:
+	(222.59, 222.81) /home/ubuntu/Documents/sec_team.mp4
+craft:
+	(13.64, 14.18) /home/ubuntu/Documents/sec_team.mp4
+sign:
+	(261.89, 262.58) /home/ubuntu/Documents/sec_team.mp4
+leaders:
+	(252.28, 252.84) /home/ubuntu/Documents/sec_team.mp4
+appointment:
+	(261.08, 261.62) /home/ubuntu/Documents/sec_team.mp4
+clearly:
+	(256.26, 256.72) /home/ubuntu/Documents/sec_team.mp4
+India's:
+	(129.25, 129.67) /home/ubuntu/Documents/sec_team.mp4
+tremendous:
+	(247.01, 247.49) /home/ubuntu/Documents/sec_team.mp4
+that:
+	(81.04, 81.28) /home/ubuntu/Documents/sec_team.mp4
+	(90.99, 91.26) /home/ubuntu/Documents/sec_team.mp4
+	(92.74, 92.91) /home/ubuntu/Documents/sec_team.mp4
+	(111.96, 112.11) /home/ubuntu/Documents/sec_team.mp4
+	(124.79, 125.02) /home/ubuntu/Documents/sec_team.mp4
+	(129.08, 129.25) /home/ubuntu/Documents/sec_team.mp4
+	(158.54, 158.68) /home/ubuntu/Documents/sec_team.mp4
+	(166.19, 166.33) /home/ubuntu/Documents/sec_team.mp4
+	(181.37, 181.61) /home/ubuntu/Documents/sec_team.mp4
+	(197.91, 198.01) /home/ubuntu/Documents/sec_team.mp4
+	(201.78, 202.08) /home/ubuntu/Documents/sec_team.mp4
+	(242.94, 243.12) /home/ubuntu/Documents/sec_team.mp4
+	(282.65, 282.8) /home/ubuntu/Documents/sec_team.mp4
+deadliest:
+	(46.8, 47.23) /home/ubuntu/Documents/sec_team.mp4
+ambitious:
+	(288.1, 288.76) /home/ubuntu/Documents/sec_team.mp4
+Biden:
+	(21.69, 22.14) /home/ubuntu/Documents/sec_team.mp4
+Robert:
+	(296.86, 297.19) /home/ubuntu/Documents/sec_team.mp4
+than:
+	(93.34, 93.48) /home/ubuntu/Documents/sec_team.mp4
+opponent:
+	(236.22, 236.62) /home/ubuntu/Documents/sec_team.mp4
+me:
+	(286.61, 286.91) /home/ubuntu/Documents/sec_team.mp4
+create:
+	(15.72, 16.0) /home/ubuntu/Documents/sec_team.mp4
+relentless:
+	(159.41, 160.16) /home/ubuntu/Documents/sec_team.mp4
+justice:
+	(169.09, 169.73) /home/ubuntu/Documents/sec_team.mp4
+from:
+	(85.62, 85.79) /home/ubuntu/Documents/sec_team.mp4
+	(87.53, 87.73) /home/ubuntu/Documents/sec_team.mp4
+international:
+	(41.29, 41.86) /home/ubuntu/Documents/sec_team.mp4
+	(279.76, 280.42) /home/ubuntu/Documents/sec_team.mp4
+all:
+	(5.54, 5.67) /home/ubuntu/Documents/sec_team.mp4
+	(64.5, 64.74) /home/ubuntu/Documents/sec_team.mp4
+	(184.98, 185.28) /home/ubuntu/Documents/sec_team.mp4
+	(207.62, 208.06) /home/ubuntu/Documents/sec_team.mp4
+took:
+	(109.55, 109.72) /home/ubuntu/Documents/sec_team.mp4
+new:
+	(138.26, 138.43) /home/ubuntu/Documents/sec_team.mp4
+	(139.53, 139.72) /home/ubuntu/Documents/sec_team.mp4
+	(154.23, 154.6) /home/ubuntu/Documents/sec_team.mp4
+	(180.49, 180.73) /home/ubuntu/Documents/sec_team.mp4
+terror:
+	(99.58, 100.08) /home/ubuntu/Documents/sec_team.mp4
+law:
+	(192.19, 192.46) /home/ubuntu/Documents/sec_team.mp4
+	(217.8, 218.06) /home/ubuntu/Documents/sec_team.mp4
+executives:
+	(219.6, 220.33) /home/ubuntu/Documents/sec_team.mp4
+proud:
+	(242.37, 242.91) /home/ubuntu/Documents/sec_team.mp4
+crisis:
+	(32.88, 33.39) /home/ubuntu/Documents/sec_team.mp4
+extremists:
+	(120.49, 121.12) /home/ubuntu/Documents/sec_team.mp4
+Americans:
+	(110.55, 111.23) /home/ubuntu/Documents/sec_team.mp4
+commitment:
+	(265.31, 265.89) /home/ubuntu/Documents/sec_team.mp4
+sort:
+	(39.03, 39.27) /home/ubuntu/Documents/sec_team.mp4
+my:
+	(221.23, 221.42) /home/ubuntu/Documents/sec_team.mp4
+	(223.98, 224.1) /home/ubuntu/Documents/sec_team.mp4
+	(248.86, 249.02) /home/ubuntu/Documents/sec_team.mp4
+	(265.17, 265.31) /home/ubuntu/Documents/sec_team.mp4
+Clinton:
+	(229.95, 230.36) /home/ubuntu/Documents/sec_team.mp4
+	(283.08, 283.51) /home/ubuntu/Documents/sec_team.mp4
+friends:
+	(151.0, 151.61) /home/ubuntu/Documents/sec_team.mp4
+institutions:
+	(280.42, 281.2) /home/ubuntu/Documents/sec_team.mp4
+markets:
+	(85.91, 86.51) /home/ubuntu/Documents/sec_team.mp4
+hateful:
+	(119.98, 120.49) /home/ubuntu/Documents/sec_team.mp4
+were:
+	(107.0, 107.06) /home/ubuntu/Documents/sec_team.mp4
+possesses:
+	(237.54, 238.16) /home/ubuntu/Documents/sec_team.mp4
+ethic:
+	(241.27, 241.7) /home/ubuntu/Documents/sec_team.mp4
+person:
+	(284.01, 284.36) /home/ubuntu/Documents/sec_team.mp4
+safe:
+	(102.6, 102.93) /home/ubuntu/Documents/sec_team.mp4
+sustain:
+	(70.56, 71.12) /home/ubuntu/Documents/sec_team.mp4
+who:
+	(117.7, 117.79) /home/ubuntu/Documents/sec_team.mp4
+	(132.81, 132.95) /home/ubuntu/Documents/sec_team.mp4
+	(248.3, 248.43) /home/ubuntu/Documents/sec_team.mp4
+	(251.03, 251.15) /home/ubuntu/Documents/sec_team.mp4
+	(253.16, 253.28) /home/ubuntu/Documents/sec_team.mp4
+	(255.97, 256.09) /home/ubuntu/Documents/sec_team.mp4
+here:
+	(198.64, 198.79) /home/ubuntu/Documents/sec_team.mp4
+no:
+	(38.68, 38.84) /home/ubuntu/Documents/sec_team.mp4
+	(116.43, 116.55) /home/ubuntu/Documents/sec_team.mp4
+	(282.0, 282.19) /home/ubuntu/Documents/sec_team.mp4
+leverage:
+	(73.77, 74.38) /home/ubuntu/Documents/sec_team.mp4
+everybody:
+	(4.38, 4.75) /home/ubuntu/Documents/sec_team.mp4
+week:
+	(9.63, 10.01) /home/ubuntu/Documents/sec_team.mp4
+	(106.65, 106.89) /home/ubuntu/Documents/sec_team.mp4
+challenges:
+	(27.55, 28.4) /home/ubuntu/Documents/sec_team.mp4
+	(78.72, 79.35) /home/ubuntu/Documents/sec_team.mp4
+	(141.76, 142.29) /home/ubuntu/Documents/sec_team.mp4
+	(146.5, 147.15) /home/ubuntu/Documents/sec_team.mp4
+borders:
+	(101.49, 102.1) /home/ubuntu/Documents/sec_team.mp4
+purpose:
+	(224.52, 225.01) /home/ubuntu/Documents/sec_team.mp4
+values:
+	(173.36, 174.01) /home/ubuntu/Documents/sec_team.mp4
+dangerous:
+	(49.03, 49.53) /home/ubuntu/Documents/sec_team.mp4
+terrorists:
+	(109.15, 109.55) /home/ubuntu/Documents/sec_team.mp4
+best:
+	(210.74, 211.3) /home/ubuntu/Documents/sec_team.mp4
+recovery:
+	(14.76, 15.16) /home/ubuntu/Documents/sec_team.mp4
+around:
+	(258.94, 259.3) /home/ubuntu/Documents/sec_team.mp4
+can:
+	(66.45, 66.61) /home/ubuntu/Documents/sec_team.mp4
+security:
+	(24.75, 25.17) /home/ubuntu/Documents/sec_team.mp4
+	(27.19, 27.55) /home/ubuntu/Documents/sec_team.mp4
+	(86.75, 87.3) /home/ubuntu/Documents/sec_team.mp4
+alone:
+	(104.87, 105.26) /home/ubuntu/Documents/sec_team.mp4
+oil:
+	(51.75, 52.01) /home/ubuntu/Documents/sec_team.mp4
+pursue:
+	(179.88, 180.35) /home/ubuntu/Documents/sec_team.mp4
+public:
+	(87.84, 88.18) /home/ubuntu/Documents/sec_team.mp4
+and:
+	(17.04, 17.51) /home/ubuntu/Documents/sec_team.mp4
+	(22.14, 22.32) /home/ubuntu/Documents/sec_team.mp4
+	(38.52, 38.68) /home/ubuntu/Documents/sec_team.mp4
+	(54.62, 54.76) /home/ubuntu/Documents/sec_team.mp4
+	(69.32, 69.47) /home/ubuntu/Documents/sec_team.mp4
+	(74.6, 74.74) /home/ubuntu/Documents/sec_team.mp4
+	(97.09, 97.25) /home/ubuntu/Documents/sec_team.mp4
+	(128.08, 128.28) /home/ubuntu/Documents/sec_team.mp4
+	(153.68, 153.89) /home/ubuntu/Documents/sec_team.mp4
+	(168.93, 169.09) /home/ubuntu/Documents/sec_team.mp4
+	(171.08, 171.21) /home/ubuntu/Documents/sec_team.mp4
+	(184.05, 184.32) /home/ubuntu/Documents/sec_team.mp4
+	(188.55, 189.02) /home/ubuntu/Documents/sec_team.mp4
+	(191.7, 192.16) /home/ubuntu/Documents/sec_team.mp4
+	(194.98, 195.4) /home/ubuntu/Documents/sec_team.mp4
+	(204.04, 204.22) /home/ubuntu/Documents/sec_team.mp4
+	(206.27, 206.39) /home/ubuntu/Documents/sec_team.mp4
+	(214.78, 214.95) /home/ubuntu/Documents/sec_team.mp4
+	(219.35, 219.6) /home/ubuntu/Documents/sec_team.mp4
+	(223.82, 223.98) /home/ubuntu/Documents/sec_team.mp4
+	(234.44, 234.89) /home/ubuntu/Documents/sec_team.mp4
+	(240.07, 240.2) /home/ubuntu/Documents/sec_team.mp4
+	(255.82, 255.97) /home/ubuntu/Documents/sec_team.mp4
+	(263.18, 263.39) /home/ubuntu/Documents/sec_team.mp4
+	(267.8, 267.98) /home/ubuntu/Documents/sec_team.mp4
+	(273.86, 273.95) /home/ubuntu/Documents/sec_team.mp4
+	(277.38, 277.49) /home/ubuntu/Documents/sec_team.mp4
+	(285.95, 286.13) /home/ubuntu/Documents/sec_team.mp4
+today:
+	(19.7, 20.16) /home/ubuntu/Documents/sec_team.mp4
+	(198.79, 199.34) /home/ubuntu/Documents/sec_team.mp4
+of:
+	(39.27, 39.35) /home/ubuntu/Documents/sec_team.mp4
+	(43.47, 43.55) /home/ubuntu/Documents/sec_team.mp4
+	(107.5, 107.61) /home/ubuntu/Documents/sec_team.mp4
+	(110.18, 110.27) /home/ubuntu/Documents/sec_team.mp4
+	(124.3, 124.45) /home/ubuntu/Documents/sec_team.mp4
+	(126.37, 126.48) /home/ubuntu/Documents/sec_team.mp4
+	(140.1, 140.2) /home/ubuntu/Documents/sec_team.mp4
+	(161.35, 161.57) /home/ubuntu/Documents/sec_team.mp4
+	(185.87, 186.0) /home/ubuntu/Documents/sec_team.mp4
+	(195.97, 196.05) /home/ubuntu/Documents/sec_team.mp4
+	(208.06, 208.22) /home/ubuntu/Documents/sec_team.mp4
+	(208.88, 208.98) /home/ubuntu/Documents/sec_team.mp4
+	(211.59, 211.74) /home/ubuntu/Documents/sec_team.mp4
+	(222.81, 222.89) /home/ubuntu/Documents/sec_team.mp4
+	(224.45, 224.52) /home/ubuntu/Documents/sec_team.mp4
+	(233.21, 233.39) /home/ubuntu/Documents/sec_team.mp4
+	(244.7, 244.85) /home/ubuntu/Documents/sec_team.mp4
+	(246.81, 247.01) /home/ubuntu/Documents/sec_team.mp4
+	(251.8, 251.9) /home/ubuntu/Documents/sec_team.mp4
+	(264.2, 264.36) /home/ubuntu/Documents/sec_team.mp4
+	(265.1, 265.17) /home/ubuntu/Documents/sec_team.mp4
+	(272.09, 272.17) /home/ubuntu/Documents/sec_team.mp4
+	(296.03, 296.39) /home/ubuntu/Documents/sec_team.mp4
+	(299.4, 299.52) /home/ubuntu/Documents/sec_team.mp4
+America:
+	(57.11, 57.87) /home/ubuntu/Documents/sec_team.mp4
+	(158.68, 159.19) /home/ubuntu/Documents/sec_team.mp4
+leadership:
+	(75.22, 75.71) /home/ubuntu/Documents/sec_team.mp4
+	(140.59, 141.15) /home/ubuntu/Documents/sec_team.mp4
+men:
+	(206.06, 206.27) /home/ubuntu/Documents/sec_team.mp4
+pragmatism:
+	(221.42, 222.21) /home/ubuntu/Documents/sec_team.mp4
+working:
+	(12.52, 12.87) /home/ubuntu/Documents/sec_team.mp4
+alliances:
+	(152.87, 153.59) /home/ubuntu/Documents/sec_team.mp4
+	(268.68, 269.41) /home/ubuntu/Documents/sec_team.mp4
+saying:
+	(123.18, 123.59) /home/ubuntu/Documents/sec_team.mp4
+department:
+	(285.1, 285.67) /home/ubuntu/Documents/sec_team.mp4
+on:
+	(40.83, 41.17) /home/ubuntu/Documents/sec_team.mp4
+	(51.32, 51.46) /home/ubuntu/Documents/sec_team.mp4
+	(98.43, 98.56) /home/ubuntu/Documents/sec_team.mp4
+greatest:
+	(175.43, 175.76) /home/ubuntu/Documents/sec_team.mp4
+abroad:
+	(60.8, 61.2) /home/ubuntu/Documents/sec_team.mp4
+restore:
+	(267.98, 268.48) /home/ubuntu/Documents/sec_team.mp4
+grave:
+	(29.85, 30.26) /home/ubuntu/Documents/sec_team.mp4
+will:
+	(147.79, 147.88) /home/ubuntu/Documents/sec_team.mp4
+	(152.11, 152.24) /home/ubuntu/Documents/sec_team.mp4
+	(243.28, 243.43) /home/ubuntu/Documents/sec_team.mp4
+	(248.43, 248.59) /home/ubuntu/Documents/sec_team.mp4
+	(253.28, 253.41) /home/ubuntu/Documents/sec_team.mp4
+	(256.09, 256.26) /home/ubuntu/Documents/sec_team.mp4
+empowers:
+	(52.22, 52.91) /home/ubuntu/Documents/sec_team.mp4
+confidence:
+	(249.82, 250.53) /home/ubuntu/Documents/sec_team.mp4
+also:
+	(58.18, 58.76) /home/ubuntu/Documents/sec_team.mp4
+thread:
+	(77.25, 77.74) /home/ubuntu/Documents/sec_team.mp4
+colleague:
+	(231.54, 232.19) /home/ubuntu/Documents/sec_team.mp4
+seeking:
+	(275.16, 275.58) /home/ubuntu/Documents/sec_team.mp4
+shine:
+	(166.33, 166.7) /home/ubuntu/Documents/sec_team.mp4
+command:
+	(253.41, 253.81) /home/ubuntu/Documents/sec_team.mp4
+spread:
+	(43.17, 43.47) /home/ubuntu/Documents/sec_team.mp4
+	(271.81, 272.09) /home/ubuntu/Documents/sec_team.mp4
+stake:
+	(94.33, 94.81) /home/ubuntu/Documents/sec_team.mp4
+extraordinary:
+	(238.28, 238.88) /home/ubuntu/Documents/sec_team.mp4
+contained:
+	(100.88, 101.34) /home/ubuntu/Documents/sec_team.mp4
+uses:
+	(182.2, 182.75) /home/ubuntu/Documents/sec_team.mp4
+threat:
+	(107.78, 108.09) /home/ubuntu/Documents/sec_team.mp4
+strategy:
+	(180.73, 181.37) /home/ubuntu/Documents/sec_team.mp4
+integrates:
+	(184.32, 184.95) /home/ubuntu/Documents/sec_team.mp4
 been:
 	(67.06, 67.23) /home/ubuntu/Documents/corr_dinner.mp4
 	(109.96, 110.32) /home/ubuntu/Documents/corr_dinner.mp4
