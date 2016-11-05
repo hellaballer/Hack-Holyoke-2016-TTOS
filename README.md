@@ -13,5 +13,7 @@ To run the hot-reload dev server, first start the Spring Application by running 
 ```
 npm run dev
 ```
-in the 'src/main/webapp' directory.
+in the 'src/main/webapp' directory. 
+
+Take the `data` directory contents and move them into your `Documents` folder, and edit the `ControllerStub` and replace the file path to the `Documents` with your name. Ditto for the `output.txt`.
 
