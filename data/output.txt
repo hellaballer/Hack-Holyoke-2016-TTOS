@@ -2855,8 +2855,6 @@ staff:
 	(122.66, 123.13) /home/ubuntu/Documents/shorter_airforce.mp4
 started:
 	(59.96, 60.56) /home/ubuntu/Documents/shorter_airforce.mp4
-team:
-	(244.36, 244.81) /home/ubuntu/Documents/shorter_airforce.mp4
 cadets:
 	(254.26, 254.92) /home/ubuntu/Documents/shorter_airforce.mp4
 many:
