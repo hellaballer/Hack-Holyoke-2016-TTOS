@@ -4,7 +4,7 @@ import {Row, Col, Form, Button, FormGroup, ControlLabel, FormControl, HelpBlock}
 export default class FetchDataComponent extends Component {
 
     static propTypes = {
-        fetchData: React.PropTypes.func,
+        makeRequest: React.PropTypes.func,
         onSuccess: React.PropTypes.func,
         data: React.PropTypes.object
     };
@@ -56,8 +56,7 @@ export default class FetchDataComponent extends Component {
                             <Col md={12}>
                                 <Button type="submit" onClick={(e) => {
                                     e.preventDefault();
-                                    this.props.fetchData(this.state.value, this.props.onSuccess);
-                                    this.props.fetchData();
+                                    this.props.makeRequest(this.state.value, this.props.onSuccess);
                                 }}
                                         style={{margin: 'auto'}}>
                                     Make Obama Speak!

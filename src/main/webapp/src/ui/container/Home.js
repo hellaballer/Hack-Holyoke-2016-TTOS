@@ -27,7 +27,7 @@ class Home extends Component {
                 </Row>
                 <Row>
                     <FetchDataComponent
-                        fetchData={(paramValue, onSuccess) =>
+                        makeRequest={(paramValue, onSuccess) =>
                             this.props.fetchStub(paramValue, this.onSuccess.bind(this))}
                         data={this.props.data}
                         onSuccess={() => this.onSuccess()}/>
