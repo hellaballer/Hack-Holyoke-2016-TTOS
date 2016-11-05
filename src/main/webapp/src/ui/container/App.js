@@ -13,6 +13,7 @@ export class App extends Component {
                         <TopNav/>
                         {/*<Image src='../../assets/res/demoPoster.jpg'/>*/}
                         {this.props.children}
+                        <i class="fa fa-spinner" aria-hidden="true"></i>
                     </Row>
                 </Grid>
             </div>
