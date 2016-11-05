@@ -23,17 +23,17 @@ export default class FetchDataComponent extends Component {
     render() {
         return (
             <div>
-                <Col md={3}>
-                    <p></p>
-                </Col>
-                <Col md={6}>
+                {/*<Col md={3}>*/}
+                    {/*<p></p>*/}
+                {/*</Col>*/}
+                <Col md={4}>
                     <Form>
                         <Row>
                             <Col md={12}>
                                 <FormGroup controlId="textSubmit">
                                     <Row>
                                         <Col md={12}>
-                                            <ControlLabel>
+                                            <ControlLabel style={{color:'white'}}>
                                                 Think of some phrase you'd like to hear
                                                 from Obama, and we'll make it happen
                                             </ControlLabel>
@@ -68,7 +68,7 @@ export default class FetchDataComponent extends Component {
                         </Row>
                     </Form>
                 </Col>
-                <Col md={3}>
+                <Col md={8}>
                     <p></p>
                 </Col>
             </div>

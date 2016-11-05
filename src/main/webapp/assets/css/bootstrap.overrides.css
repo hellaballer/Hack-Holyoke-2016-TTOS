@@ -7,5 +7,10 @@
 }
 
 body {
-    background: #005cb8 !important;
+    /*background: #005cb8 !important;*/
+    background: url(../res/obamaSmile.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
