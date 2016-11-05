@@ -34,7 +34,8 @@ export default class FetchDataComponent extends Component {
                                     <Row>
                                         <Col md={12}>
                                             <ControlLabel>
-                                                Get Obama to say anything!
+                                                Think of some phrase you'd like to hear
+                                                from Obama, and we'll make it happen
                                             </ControlLabel>
                                         </Col>
                                     </Row>
@@ -46,7 +47,7 @@ export default class FetchDataComponent extends Component {
                                     }}
                                     type="text"
                                     value={this.state.value}
-                                    placeholder="Type you text here"
+                                    placeholder="Type your Obama speech here!"
                                     onChange={this.handleChange}
                                 />
                                 <FormControl.Feedback />
