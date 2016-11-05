@@ -34,14 +34,7 @@ export default class FetchDataComponent extends Component {
                                     <Row>
                                         <Col md={12}>
                                             <ControlLabel>
-                                                Make Obama speak
-                                            </ControlLabel>
-                                        </Col>
-                                    </Row>
-                                    <Row>
-                                        <Col md={12}>
-                                            <ControlLabel>
-                                                Get Obama to say want you want hear from Obama
+                                                Get Obama to say anything!
                                             </ControlLabel>
                                         </Col>
                                     </Row>

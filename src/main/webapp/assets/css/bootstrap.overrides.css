@@ -1,7 +1,11 @@
 .btn-default {
-    color: #5cb85c !important;
+    color: #000000 !important;
 }
 
 .navbar-default {
-    background: #880000 none !important;
+    background: #800 none !important;
+}
+
+body {
+    background: #005cb8 !important;
 }
