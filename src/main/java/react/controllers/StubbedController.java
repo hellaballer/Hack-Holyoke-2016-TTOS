@@ -19,6 +19,9 @@ import java.util.List;
 public class StubbedController {
     @RequestMapping(method = RequestMethod.GET, value = "stub")
     HttpEntity<String> stub(@RequestParam("paramValue") String paramValue){
-        return new ResponseEntity<>("URL_TO_VIDEO", HttpStatus.OK);
+        //DO STUFF HERE
+
+        String videoURL= "http://media.w3.org/2010/05/sintel/trailer.mp4";
+        return new ResponseEntity<>(videoURL, HttpStatus.OK);
     }
 }

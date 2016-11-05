@@ -6,17 +6,20 @@ class VideoPlayer extends Component {
 
     render() {
         return (
-            <div id="application">
-                <VideoPlayerComponent/>
+            <div>
+                <VideoPlayerComponent data={this.props.data}/>
             </div>
         );
     }
 }
 
-let mapStateToProps = () => ({}),
-    mapDispatchToProps = {};
-
+const maStateToProps = (state) => {
+    return {
+        data: state.stub
+    };
+};
+const mapDispatchToProps = {};
 export default connect(
-    mapStateToProps,
+    (state) => maStateToProps(state),
     mapDispatchToProps
 )(VideoPlayer);
