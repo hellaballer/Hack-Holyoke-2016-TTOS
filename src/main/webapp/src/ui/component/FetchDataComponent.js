@@ -61,8 +61,9 @@ export default class FetchDataComponent extends Component {
                                 }}
                                         style={{margin: 'auto'}}>
                                     Make Obama Speak!
-                                </Button> {this.props.data.status == 'REQUEST' ?
-                                <i clasName="fa fa-spinner" aria-hidden="true" /> : ''}
+                                </Button>{this.props.data.status == 'REQUEST' ?
+                                <i className="fa fa-refresh fa-spin fa-3x fa-fw"></i> : ''}
+                                {/*<span class="sr-only">Loading...</span>*/}
                             </Col>
                         </Row>
                     </Form>

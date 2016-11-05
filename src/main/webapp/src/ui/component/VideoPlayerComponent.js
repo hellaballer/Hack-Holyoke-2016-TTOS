@@ -52,9 +52,14 @@ export default class VideoPlayerComponent extends Component {
                             this.reloadVideo();
                         }}>Reload</Button>
                     </Col>
-                    <Col md={11}>
-                        <a href={this.props.data.videoURL} target="_blank">Download Video</a>
+                    <Col md={2}>
+                        <a style={{color: 'white', paddingTop: '15px'}}
+                           href={this.props.data.videoURL}
+                           target="_blank">Download Video</a>
                         {/*<a href={this.props.data.videoURL} download>Download Video</a>*/}
+                    </Col>
+                    <Col md={9}>
+                        <p></p>
                     </Col>
                 </Row>
             </div>
