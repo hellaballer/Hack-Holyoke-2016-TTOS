@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Button} from 'react-bootstrap';
+import {Row, Col, Form, Button, FormGroup, ControlLabel, FormControl, HelpBlock} from 'react-bootstrap';
 
 export default class FetchDataComponent extends Component {
 
@@ -9,14 +9,73 @@ export default class FetchDataComponent extends Component {
         data: React.PropTypes.object
     };
 
+    constructor(props) {
+        super(props);
+        this.state = {
+            value: ''
+        };
+    }
+
+    handleChange = (e) => {
+        this.setState({value: e.target.value});
+    };
+
     render() {
         return (
             <div>
-                <Button onClick={() =>
-                    this.props.fetchData('1234', this.props.onSuccess)}>
-                    Fetch Data
-                </Button>
-                <p>{this.props.data.items}</p>
+                <Col md={3}>
+                    <p>.</p>
+                </Col>
+                <Col md={6}>
+                    <Form>
+                        <Row>
+                            <Col md={12}>
+                                <FormGroup controlId="textSubmit">
+                                    <Row>
+                                        <Col md={12}>
+                                            <ControlLabel>
+                                                Make Obama speak
+                                            </ControlLabel>
+                                        </Col>
+                                    </Row>
+                                    <Row>
+                                        <Col md={12}>
+                                            <ControlLabel>
+                                                Get Obama to say want you want hear from Obama
+                                            </ControlLabel>
+                                        </Col>
+                                    </Row>
+                                </FormGroup>
+                                <FormControl
+                                    style={{
+                                        /*maxWidth: '400px',*/
+                                        /*margin: 'auto'/*, backgroundColor:'gray', borderColor:'#777'*/
+                                    }}
+                                    type="text"
+                                    value={this.state.value}
+                                    placeholder="Type you text here"
+                                    onChange={this.handleChange}
+                                />
+                                <FormControl.Feedback />
+                            </Col>
+                        </Row>
+                        <Row style={{paddingTop: '20px'}}>
+                            <Col md={12}>
+                                <Button type="submit" onClick={(e) => {
+                                    e.preventDefault();
+                                    this.props.fetchData(this.state.value, this.props.onSuccess);
+                                    this.props.fetchData();
+                                }}
+                                        style={{margin: 'auto'}}>
+                                    Make Obama Speak!
+                                </Button>
+                            </Col>
+                        </Row>
+                    </Form>
+                </Col>
+                <Col md={3}>
+                    <p>.</p>
+                </Col>
             </div>
         );
     }

@@ -12,19 +12,13 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by jared on 10/7/16.
+ * GET request that accepts a string of words and returns the path to the video
  */
-
 @Controller
 @RequestMapping("/api")
 public class StubbedController {
     @RequestMapping(method = RequestMethod.GET, value = "stub")
-    HttpEntity<List<Integer>> stub(@RequestParam("paramValue") String paramValue){
-        List<Integer> lst = new LinkedList<>();
-        lst.add(1);
-        lst.add(2);
-        lst.add(3);
-        lst.add(4);
-        return new ResponseEntity<>(lst, HttpStatus.OK);
+    HttpEntity<String> stub(@RequestParam("paramValue") String paramValue){
+        return new ResponseEntity<>("URL_TO_VIDEO", HttpStatus.OK);
     }
 }

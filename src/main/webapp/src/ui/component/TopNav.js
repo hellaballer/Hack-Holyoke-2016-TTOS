@@ -17,9 +17,9 @@ export default class TopNav extends Component {
                 </Navbar.Header>
                 <Navbar.Collapse>
                     <Nav>
-                        <LinkContainer to={{pathname: '/hello'}}>
+                        <IndexLinkContainer to={{pathname: '/'}}>
                             <NavItem eventKey={1} href="#">Hello</NavItem>
-                        </LinkContainer>
+                        </IndexLinkContainer>
                         <LinkContainer to={{pathname: '/goodbye'}}>
                             <NavItem eventKey={2} href="#">Goodbye</NavItem>
                         </LinkContainer>
