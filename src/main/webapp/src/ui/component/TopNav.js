@@ -4,6 +4,10 @@ import {LinkContainer, IndexLinkContainer} from 'react-router-bootstrap'
 
 export default class TopNav extends Component {
 
+    static propTypes = {
+        data: React.PropTypes.object
+    };
+
     render() {
         return (
             <Navbar>
@@ -20,9 +24,9 @@ export default class TopNav extends Component {
                         <IndexLinkContainer to={{pathname: '/'}}>
                             <NavItem eventKey={1} href="#">Hello</NavItem>
                         </IndexLinkContainer>
-                        <LinkContainer to={{pathname: '/video'}}>
+                        {this.props.data.videoURL != '' ? <LinkContainer to={{pathname: '/video'}}>
                             <NavItem eventKey={2} href="#">Video</NavItem>
-                        </LinkContainer>
+                        </LinkContainer> : ''}
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
