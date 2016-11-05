@@ -24,7 +24,7 @@ export default class FetchDataComponent extends Component {
         return (
             <div>
                 <Col md={3}>
-                    <p>.</p>
+                    <p></p>
                 </Col>
                 <Col md={6}>
                     <Form>
@@ -61,13 +61,14 @@ export default class FetchDataComponent extends Component {
                                 }}
                                         style={{margin: 'auto'}}>
                                     Make Obama Speak!
-                                </Button>
+                                </Button> {this.props.data.status == 'REQUEST' ?
+                                <i clasName="fa fa-spinner" aria-hidden="true" /> : ''}
                             </Col>
                         </Row>
                     </Form>
                 </Col>
                 <Col md={3}>
-                    <p>.</p>
+                    <p></p>
                 </Col>
             </div>
         );
