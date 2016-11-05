@@ -108,6 +108,7 @@ public class StubbedController {
 			});
 		} catch (IllegalStateException ex) {
 			sharder.destroy();
+			System.out.println("ERRRRRRRRRRRRRRRORRRRRR CAUGHT");
 			return new ResponseEntity<>(ex.getMessage(), HttpStatus.NOT_IMPLEMENTED);
 		}
 
@@ -165,7 +166,7 @@ public class StubbedController {
 		    
 		    Files.copy(sourcePath, targetPath, REPLACE_EXISTING);
 		} catch (IOException ex) {
-		    //YOLO!!
+		    
 		}
 
 		String videoURL = "http://54.221.6.127/" + finalFile.getName();
